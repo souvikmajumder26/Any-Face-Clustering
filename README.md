@@ -5,7 +5,7 @@
 >
 > **2) *Follow the next steps mentioned in the notebook to launch the Streamlit Web App.***
 
-###
+###   
 
 ### Follow this video to know how to interact with the project after launching the Streamlit Web App from Google Colab Notebook:
 
