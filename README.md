@@ -1,7 +1,7 @@
 # Any-Face-Clustering
 
 ### Follow these steps to open the Google Colab Notebook:
-> **1) *Open the file "Any_Face_Clustering_Streamlit_app.ipnyb*" - a notebook will open on Google Colaboratory.**
+> **1) *Open the file "Any_Face_Clustering_Streamlit_app.ipnyb*" and click on the button "Open in Colab" - a notebook will open on Google Colaboratory.**
 >
 > **2) *Follow the next steps mentioned in the notebook to launch the Streamlit Web App.***
 
