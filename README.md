@@ -9,7 +9,7 @@
 
 <br>
 
-### Follow this video to know how to interact with the project after launching the Streamlit Web App from Google Colab Notebook:
+### Follow this video to see how to interact with the project after launching the Streamlit Web App from Google Colab Notebook:
 
 https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-85ff-07c0a7d0345b.mp4
 
