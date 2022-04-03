@@ -31,3 +31,8 @@ Feel free to interact with the Streamlit Web App...
 > ***Upload images of several faces (make sure to upload atleast 3 images containing the same face)... or you can choose to use the <a href="https://drive.google.com/drive/folders/1JXYCf4Qk4fuTfTDoduGU7vgmXNyXSMUe?usp=sharing">Unlabelled_test_images</a> by downloading the folder and then uploading the images to the Web App to experience how the project works.***
 
 https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-85ff-07c0a7d0345b.mp4
+
+
+## Motivation and Applications[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#motivation-and-applications)
+
+Long before I knew anything about Artificial Intelligence, I discovered a feature in my mobile phone which grouped all images according to the faces contained in them. I was always intruiged by this feature and wondered how this was achieved. After a few years, fortunately I was exposed to the field of Data Science and Artificial Intelligence, and now I have been able to fulfill my old curiosity by building the same feature in the form of a Web App prototype to be used by anyone.
