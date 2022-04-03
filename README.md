@@ -20,18 +20,19 @@ A Face Clustering Engine has been developed utilizing <a href="https://opencv.or
    - [Opening the Project in Google Colab Notebook](#a-follow-these-steps-to-open-the-project-in-google-colab-notebook)
    - [Demo video of the Streamlit Web App](#b-demo-follow-this-video-on-how-to-interact-with-the-streamlit-web-app-after-launching-it-from-google-colab-notebook)
 3. [Motivation and Applications](#motivation-and-applications)
-4. [Acknowledgement](#acknowledgement)
+4. [Dependencies](#dependencies)
+5. [Acknowledgement](#acknowledgement)
 
 ----
 
 ## How to interact with the Project as a User[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#how-to-interact-with-the-project-as-a-user)
 
 ### A. Follow these steps to open the Project in Google Colab Notebook:
-> **1) *Open the file "Any_Face_Clustering_Streamlit_app.ipnyb" and click "Open in Colab"* OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Any_Face_Clustering_Streamlit_app.ipynb">here</a>* :D**
-> 
-> A notebook will open in Google Colab.
->
-> **2) *Follow the next steps mentioned in the notebook to launch the Streamlit Web App.***
+- ***Open the file "Any_Face_Clustering_Streamlit_app.ipnyb" and click "Open in Colab"* OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Any_Face_Clustering_Streamlit_app.ipynb">here</a>* :D**
+
+- > A notebook will open in Google Colab.
+
+- ***Follow the next steps mentioned in the notebook to launch the Streamlit Web App.***
 
 
 ### B. Demo: Follow this video on how to interact with the Streamlit Web App after launching it from Google Colab Notebook:
@@ -51,5 +52,12 @@ Other than **Web & Mobile application integrations** of this project making live
 
 ----
 
+## Dependencies[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#dependencies)
+
+- OpenCV (cv2)
+- Face_Recognition
+
+----
+
 ## Acknowledgement[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#motivation-and-applications)
-1. https://pyimagesearch.com/2018/07/09/face-clustering-with-python/
+- https://pyimagesearch.com/2018/07/09/face-clustering-with-python/
