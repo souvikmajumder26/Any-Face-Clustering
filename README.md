@@ -8,10 +8,16 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+----
+
 ## Basic Overview[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#basic-overview)
 A Face Clustering Engine has been developed utilizing <a href="https://opencv.org/" target="_blank">OpenCV</a>, <a href="https://pypi.org/project/face-recognition/" target="_blank">Face Recognition</a> & <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html" target="_blank">DBSCAN (scikit-learn)</a> python libraries. The project has been deployed as a <a href="https://streamlit.io/" target="_blank">Streamlit</a> Web App which provides users the privilege to upload their own images (or images they want to test with) and be delivered with images grouped according to the individual unique faces contained in them.
 
-## Follow these steps to open the Project in Google Colab Notebook:
+----
+
+## How to interact with the Project as a User[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#how-to-interact-with-the-project-as-a-user)
+
+### • Follow these steps to open the Project in Google Colab Notebook:
 > **1) *Open the file "Any_Face_Clustering_Streamlit_app.ipnyb" and click on the button "Open in Colab"* OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Any_Face_Clustering_Streamlit_app.ipynb">here</a>* :D**
 > 
 > A notebook will open in Google Colab.
@@ -20,7 +26,7 @@ A Face Clustering Engine has been developed utilizing <a href="https://opencv.or
 
 <br>
 
-## Follow this video to see how to interact with the project after launching the Streamlit Web App from Google Colab Notebook:
+### • Demo: Follow this video on how to interact with the Streamlit Web App after launching it from Google Colab Notebook:
 
 https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-85ff-07c0a7d0345b.mp4
 
