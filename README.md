@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Any Face Clustering</strong></h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Jupyter](https://img.shields.io/badge/jupyter-v5.3+-yellow.svg)
+![Jupyter](https://img.shields.io/badge/jupyter-v5.3+-orange.svg)
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/souvikmajumder26/Any-Face-Clustering.svg)](https://github.com/souvikmajumder26/Any-Face_Clustering/issues)
