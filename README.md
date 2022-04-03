@@ -32,6 +32,7 @@ Feel free to interact with the Streamlit Web App...
 
 https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-85ff-07c0a7d0345b.mp4
 
+----
 
 ## Motivation and Applications[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#motivation-and-applications)
 
