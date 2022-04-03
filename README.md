@@ -28,16 +28,16 @@ A Face Clustering Engine has been developed utilizing <a href="https://opencv.or
 ## How to interact with the Project as a User[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#how-to-interact-with-the-project-as-a-user)
 
 ### A. Follow these steps to open the Project in Google Colab Notebook:
-- ***Open the file "Any_Face_Clustering_Streamlit_app.ipnyb" and click "Open in Colab"* OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Any_Face_Clustering_Streamlit_app.ipynb">here</a>* :D**
+- *Open the file **"Any_Face_Clustering_Streamlit_app.ipnyb"** and click **"Open in Colab"*** OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Any_Face_Clustering_Streamlit_app.ipynb">**here**</a>* :D
 
 - > A notebook will open in Google Colab.
 
-- ***Follow the next steps mentioned in the notebook to launch the Streamlit Web App.***
+- *Follow the **next steps mentioned in the notebook** to launch the **Streamlit Web App**.*
 
 
 ### B. Demo: Follow this video on how to interact with the Streamlit Web App after launching it from Google Colab Notebook:
 
-Feel free to interact with the Streamlit Web App...
+*Feel free to interact with the Streamlit Web App...*
 > ***Upload images of several faces (make sure to upload atleast 3 images containing the same face)... or you can choose to use the <a href="https://drive.google.com/drive/folders/1JXYCf4Qk4fuTfTDoduGU7vgmXNyXSMUe?usp=sharing">Unlabelled_test_images</a> by downloading the folder and then uploading the images to the Web App to experience how the project works.***
 
 https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-85ff-07c0a7d0345b.mp4
