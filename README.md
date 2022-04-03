@@ -18,7 +18,7 @@ A Face Clustering Engine has been developed utilizing <a href="https://opencv.or
 ## How to interact with the Project as a User[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#how-to-interact-with-the-project-as-a-user)
 
 ### 1. Follow these steps to open the Project in Google Colab Notebook:
-> **1) *Open the file "Any_Face_Clustering_Streamlit_app.ipnyb" and click on the button "Open in Colab"* OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Any_Face_Clustering_Streamlit_app.ipynb">here</a>* :D**
+> **1) *Open the file "Any_Face_Clustering_Streamlit_app.ipnyb" and click "Open in Colab"* OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Any_Face_Clustering_Streamlit_app.ipynb">here</a>* :D**
 > 
 > A notebook will open in Google Colab.
 >
