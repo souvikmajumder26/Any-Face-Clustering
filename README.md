@@ -61,8 +61,27 @@ Other than **Web & Mobile application integrations** of this project making live
 
 - OpenCV (cv2)
 - Face_Recognition
+- scikit-learn
+- Numpy
+- Streamlit
+- imutils
+- os
+- time
+- shutil
+- tempfile
 
 ----
 
 ## Acknowledgement[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#motivation-and-applications)
+- https://opencv.org/
+- https://face-recognition.readthedocs.io/en/latest/index.html
+- https://scikit-learn.org/stable/
+- https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
+- https://numpy.org/
+- https://streamlit.io/
+- https://pypi.org/project/imutils/
+- https://docs.python.org/3/library/os.html
+- https://docs.python.org/3/library/time.html
+- https://docs.python.org/3/library/shutil.html
+- https://docs.python.org/3/library/tempfile.html
 - https://pyimagesearch.com/2018/07/09/face-clustering-with-python/
