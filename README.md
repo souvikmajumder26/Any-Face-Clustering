@@ -11,7 +11,10 @@
 ----
 
 ## Basic Overview[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#basic-overview)
-A Face Clustering Engine has been developed utilizing <a href="https://opencv.org/" target="_blank">OpenCV</a>, <a href="https://pypi.org/project/face-recognition/" target="_blank">Face Recognition</a> & <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html" target="_blank">DBSCAN (scikit-learn)</a> python libraries. The project has been deployed as a <a href="https://streamlit.io/" target="_blank">Streamlit</a> Web App which provides users the privilege to upload their own images (or images they want to test with) and be delivered with images grouped according to the individual unique faces contained in them.
+A Face Clustering Engine has been developed utilizing <a href="https://opencv.org/" target="_blank">OpenCV</a>, <a href="https://pypi.org/project/face-recognition/" target="_blank">Face Recognition</a> & <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html" target="_blank">DBSCAN (scikit-learn)</a> python libraries.
+The project has been deployed as a <a href="https://streamlit.io/" target="_blank">Streamlit</a> Web App which provides users the facility to upload their own images (or images they want to test with) and be delivered with the images grouped according to the individual unique faces contained in them.
+
+A Face Clustering Engine in essence performs grouping of user-provided images according to the unique faces contained in them. Unsupervised Learning being at the core of this Face Clustering Engine enables it to cluster/group images by faces which it hasn't even seen (trained on) yet. And thus it is applicable to **Any Face**.
 
 ----
 
