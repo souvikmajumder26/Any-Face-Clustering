@@ -35,7 +35,7 @@ A Face Clustering Engine in essence performs grouping of user-provided images ac
 
 >💡 A notebook will open in Google Colab.
 >
->💡 This app can be deployed directly on cloud for end-users, but as it requires a lot of memory (RAM) for its computation, it could not be deployed successfully to a *free-tier cloud service* (eg: Streamlit Share Cloud, Heroku, AWS, Azure, etc.), thus Google Colab was chosen to work as the free server for this project prototype.
+>💡 This app can be deployed directly on cloud for end-users, but as it requires a lot of memory (RAM) for its computation, it could not be deployed successfully to a *free-tier cloud service* (eg: Streamlit Share Cloud, Heroku, AWS, Azure, GCP etc.), thus Google Colab was chosen to work as the free server for this project prototype.
 
 - *Follow the **next steps mentioned in the notebook** to launch the **Streamlit Web App**.*
 
