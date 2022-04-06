@@ -34,6 +34,7 @@ A Face Clustering Engine in essence performs grouping of user-provided images ac
 - *Open the file **"Any_Face_Clustering_Streamlit_app.ipnyb"** and click **"Open in Colab"*** OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Any_Face_Clustering_Streamlit_app.ipynb">**here**</a>* :D
 
 >💡 A notebook will open in Google Colab.
+>
 >💡 This app can be deployed directly on cloud for end-users, but as it requires a lot of memory (RAM) for its computation, it could not be deployed successfully to a *free-tier cloud service* (eg: Streamlit Share Cloud, Heroku, AWS, Azure, etc.), thus Google Colab was chosen to work as the free server for this project prototype.
 
 - *Follow the **next steps mentioned in the notebook** to launch the **Streamlit Web App**.*
