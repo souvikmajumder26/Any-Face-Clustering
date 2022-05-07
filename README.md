@@ -18,7 +18,7 @@ A Face Clustering Engine in essence performs grouping of user-provided images ac
 
 ----
 
-## Table of contents[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#table-of-contents)
+## Table of Contents[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#table-of-contents)
 1. [How to interact with the Project as a User](#how-to-interact-with-the-project-as-a-user)
    - [Opening the Project in Google Colab Notebook](#a-follow-these-steps-to-open-the-project-in-google-colab-notebook)
    - [Demo video of the Streamlit Web App](#b-demo-follow-this-video-on-how-to-interact-with-the-streamlit-web-app-after-launching-it-from-google-colab-notebook)
