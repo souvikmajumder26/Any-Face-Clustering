@@ -23,8 +23,9 @@ A Face Clustering Engine in essence performs grouping of user-provided images ac
    - [Opening the Project in Google Colab Notebook](#a-follow-these-steps-to-open-the-project-in-google-colab-notebook)
    - [Demo video of the Streamlit Web App](#b-demo-follow-this-video-on-how-to-interact-with-the-streamlit-web-app-after-launching-it-from-google-colab-notebook)
 2. [Motivation and Use Cases](#2-motivation-and-use-cases)
-3. [Dependencies](#3-dependencies)
-4. [Acknowledgement](#4-acknowledgement)
+3. [Detailed Project Code](#3-detailed-project-code)
+4. [Dependencies](#4-dependencies)
+5. [Acknowledgement](#5-acknowledgement)
 
 ----
 
@@ -57,7 +58,13 @@ https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-
 
 ----
 
-## 3. Dependencies[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#3-dependencies)
+## 3. Detailed Project Code[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#3-detailed-project-code)
+
+- *Open the file **"Detailed.ipnyb"** and click **"Open in Colab"*** OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Detailed.ipynb">**here**</a>* to open the notebook with detailed and explained project code.
+
+----
+
+## 4. Dependencies[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#4-dependencies)
 
 - OpenCV (cv2)
 - Face_Recognition
@@ -72,7 +79,7 @@ https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-
 
 ----
 
-## 4. Acknowledgement[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#4-acknowledgement)
+## 5. Acknowledgement[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#5-acknowledgement)
 - https://opencv.org/
 - https://face-recognition.readthedocs.io/en/latest/index.html
 - https://scikit-learn.org/stable/
