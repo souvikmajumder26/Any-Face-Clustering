@@ -46,7 +46,7 @@ A Face Clustering Engine in essence performs grouping of user-provided images ac
 ### b) Follow these steps to open the Project Locally:
 - *Download/clone the repository onto desktop*
 - *setup.cfg, setup.py run*
-- *Launch the Streamlit Web App by opening the file **"Any_Face_Clustering.py"***
+- *Launch the Streamlit Web App by opening the file **"app.py"***
 
 ----
 
