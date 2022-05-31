@@ -24,7 +24,7 @@ A Face Clustering Engine in essence performs grouping of user-provided images ac
    - [Opening the Project Locally](#b-follow-these-steps-to-open-the-project-locally)
 2. [Demo video of the Streamlit Web App](#2-demo-follow-this-video-on-how-to-interact-with-the-streamlit-app-after-launching-it)
 3. [Motivation and Use Cases](#3-motivation-and-use-cases)
-4. [Detailed Project Code](#4-detailed-project-code)
+4. [Detailed Project Code with Explanation](#4-detailed-project-code-with-explanation)
 5. [Dependencies](#5-dependencies)
 6. [Acknowledgement](#6-acknowledgement)
 
@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/86871718/171251974-bd3312c7-b407-4ca6-
 
 ----
 
-## 4. Detailed Project Code[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#4-detailed-project-code)
+## 4. Detailed Project Code with Explanation[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#4-detailed-project-code-with-explanation)
 
 - *Open the file **"Detailed_Project_Explanation.ipnyb"** and click **"Open in Colab"*** OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Detailed_Project_Explanation.ipynb">**here**</a>* to open the notebook with detailed and explained project code.
 
