@@ -19,16 +19,16 @@ A Face Clustering Engine in essence performs grouping of user-provided images ac
 ----
 
 ## Table of Contents[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#table-of-contents)
-1. [How to interact with the Project as a User](#how-to-interact-with-the-project-as-a-user)
+1. [How to interact with the Project as a User](#1-how-to-interact-with-the-project-as-a-user)
    - [Opening the Project in Google Colab Notebook](#a-follow-these-steps-to-open-the-project-in-google-colab-notebook)
    - [Demo video of the Streamlit Web App](#b-demo-follow-this-video-on-how-to-interact-with-the-streamlit-web-app-after-launching-it-from-google-colab-notebook)
-2. [Motivation and Use Cases](#motivation-and-use-cases)
-3. [Dependencies](#dependencies)
-4. [Acknowledgement](#acknowledgement)
+2. [Motivation and Use Cases](#2-motivation-and-use-cases)
+3. [Dependencies](#3-dependencies)
+4. [Acknowledgement](#4-acknowledgement)
 
 ----
 
-## 1. How to interact with the Project as a User[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#how-to-interact-with-the-project-as-a-user)
+## 1. How to interact with the Project as a User[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#1-how-to-interact-with-the-project-as-a-user)
 
 ### a) Follow these steps to open the Project in Google Colab Notebook:
 - *Open the file **"Any_Face_Clustering_Streamlit_app.ipnyb"** and click **"Open in Colab"*** OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Any_Face_Clustering_Streamlit_app.ipynb">**here**</a>* :D
@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-
 
 ----
 
-## 2. Motivation and Use Cases[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#motivation-and-applications)
+## 2. Motivation and Use Cases[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#2-motivation-and-use-cases)
 
 - Long before I knew anything about Artificial Intelligence, I discovered a feature in my mobile phone which grouped all images according to the faces contained in them. I was always intruiged by this feature and wondered how this had been achieved. After a few years, fortunately I was exposed to the field of Data Science and Artificial Intelligence, and now I have been able to fulfill my old curiosity by building the same feature in the form of a Web App prototype to be used by anyone.
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-
 
 ----
 
-## 3. Dependencies[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#dependencies)
+## 3. Dependencies[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#3-dependencies)
 
 - OpenCV (cv2)
 - Face_Recognition
@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-
 
 ----
 
-## 4. Acknowledgement[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#motivation-and-applications)
+## 4. Acknowledgement[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#4-acknowledgement)
 - https://opencv.org/
 - https://face-recognition.readthedocs.io/en/latest/index.html
 - https://scikit-learn.org/stable/
