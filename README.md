@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/86871718/161094650-5aecaa71-a6de-4ae6-
 
 ## 3. Detailed Project Code[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#3-detailed-project-code)
 
-- *Open the file **"Detailed.ipnyb"** and click **"Open in Colab"*** OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Detailed.ipynb">**here**</a>* to open the notebook with detailed and explained project code.
+- *Open the file **"Detailed_Project_Explanation.ipnyb"** and click **"Open in Colab"*** OR *just click <a href="https://colab.research.google.com/github/souvikmajumder26/Any-Face-Clustering/blob/main/Detailed_Project_Explanation.ipynb">**here**</a>* to open the notebook with detailed and explained project code.
 
 ----
 
