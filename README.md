@@ -46,7 +46,7 @@ A Face Clustering Engine in essence performs grouping of user-provided images ac
 ### b) Follow these steps to open the Project Locally:
 - *Download/clone the repository onto desktop*
 - *setup.cfg, setup.py run*
-- *Launch the Streamlit Web App by opening the file **"app.py"***
+- *Launch the Streamlit Web App by opening the file **"app.py" - streamlit run myfile.py***
 
 ----
 
@@ -76,7 +76,7 @@ https://user-images.githubusercontent.com/86871718/171251974-bd3312c7-b407-4ca6-
 ## 5. Dependencies[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#5-dependencies)
 
 - OpenCV (cv2)
-- Face_Recognition
+- Face-Recognition
 - scikit-learn
 - Numpy
 - Streamlit
