@@ -1,5 +1,4 @@
-<h1 align="center"><strong>Any Face Clustering:</strong></h1>
-<h2 align="center"><strong>Automatically Group your Images by Faces with an end-to-end Artificial Intelligence App</strong></h2>
+<h1 align="center"><strong>Any Face Clustering:<br>Automatically Group your Images by Faces with an end-to-end Artificial Intelligence App</strong></h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Jupyter](https://img.shields.io/badge/jupyter-v5.3+-orange.svg)
