@@ -10,7 +10,7 @@
 
 ----
 
-## Basic Overview[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#basic-overview)
+## Overview[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#basic-overview)
 A Face Clustering Engine has been developed utilizing <a href="https://opencv.org/" target="_blank">OpenCV</a>, <a href="https://pypi.org/project/face-recognition/" target="_blank">Face Recognition</a> & <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html" target="_blank">DBSCAN (scikit-learn)</a> python libraries.
 The project has been deployed as a <a href="https://streamlit.io/" target="_blank">Streamlit</a> Web App which provides users the facility to upload their own images (or images they want to test with) and be delivered with the images grouped according to the individual unique faces contained in them.
 
