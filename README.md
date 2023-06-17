@@ -25,8 +25,9 @@ A Face Clustering Engine in essence performs grouping of user-provided images ac
 2. [Demo video of the Streamlit Web App](#2-demo-follow-this-video-on-how-to-interact-with-the-streamlit-app-after-launching-it)
 3. [Motivation and Use Cases](#3-motivation-and-use-cases)
 4. [Detailed Project Code with Explanation](#4-detailed-project-code-with-explanation)
-5. [Dependencies](#5-dependencies)
-6. [Acknowledgement](#6-acknowledgement)
+5. [Citing](#5-citing)
+6. [Dependencies](#6-dependencies)
+7. [Acknowledgement](#7-acknowledgement)
 
 ----
 
@@ -73,7 +74,21 @@ https://user-images.githubusercontent.com/86871718/171251974-bd3312c7-b407-4ca6-
 
 ----
 
-## 5. Dependencies[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#5-dependencies)
+## 5. Citing[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#5-citing)
+```
+@misc{Souvik2022,
+  Author = {Souvik Majumder},
+  Title = {Any Face Clustering},
+  Year = {2022},
+  Publisher = {GitHub},
+  Journal = {GitHub repository},
+  Howpublished = {\url{https://github.com/souvikmajumder26/Any-Face-Clustering}}
+}
+```
+
+----
+
+## 6. Dependencies[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#6-dependencies)
 
 - OpenCV (cv2)
 - Face-Recognition
@@ -88,7 +103,7 @@ https://user-images.githubusercontent.com/86871718/171251974-bd3312c7-b407-4ca6-
 
 ----
 
-## 6. Acknowledgement[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#6-acknowledgement)
+## 7. Acknowledgement[![](https://github.com/souvikmajumder26/Any-Face-Clustering/blob/main/docs/img/pushpin.svg)](#7-acknowledgement)
 - https://opencv.org/
 - https://face-recognition.readthedocs.io/en/latest/index.html
 - https://scikit-learn.org/stable/
